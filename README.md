@@ -75,7 +75,7 @@ The system has been rigorously tested with:
 1. Clone the repository and navigate to the project directory.
 2. Configure the required environment variable for authentication:
    ```bash
-   export AIPROXY_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIzZjMwMDA4NDZAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.aAADlNke0HlX6cysVl-4OKJxeIKegMeldrHk6e1HcYU
+   export AIPROXY_TOKEN=eyJhbGciOiJIUzI1NiJ9.eyJlbWFpbCI6IjIxZjMwMDA4MzRAZHMuc3R1ZHkuaWl0bS5hYy5pbiJ9.zTlMoVJw2hgF3rnpnE_AKQ6Y3m-PA6OLj08TMRum1zI
    ```
 3. Execute the script via the `uv` CLI tool:
    ```bash
